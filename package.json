@@ -1,11 +1,18 @@
 {
-  "name": "@mgw/first-test",
-  "version": "1.0.0",
+  "name": "@mgw-1/first-npm-test",
+  "version": "1.0.2",
   "description": "test mgw",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmodrogan/first-npm-test.git"
+  }
 }
