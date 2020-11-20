@@ -1,6 +1,6 @@
 {
   "name": "@mgw-1/first-npm-test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test mgw",
   "main": "index.js",
   "scripts": {
